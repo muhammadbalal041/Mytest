@@ -1,0 +1,3 @@
+#!/bin/bash
+cd /home/rbs/workspace/FirstTestNGProject
+java -cp /home/rbs/workspace/FirstTestNGProject/libs*;/home/rbs/workspace/FirstTestNGProject/bin org.testng.TestNG testng.xml
